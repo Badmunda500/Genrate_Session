@@ -124,7 +124,7 @@ export default function Home() {
             Disclaimer
           </a>
           <a
-            href="https://github.com/grammyjs/telegram.tools"
+            href="https://github.com/Badmunda500/Genrate_Session"
             target="_blank"
             class="hover:underline"
           >
